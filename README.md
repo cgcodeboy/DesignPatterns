@@ -86,7 +86,7 @@
 	undefined reference to `vtable for class.
 	-- 2017年2月19日
 
-##19 commit strategy
+##19 commit strategy
 	这次提交的是关于策略模式的，这个模式很简单，初看说明以为是状态模式的改版。
 	-- 2017年2月20日
 
